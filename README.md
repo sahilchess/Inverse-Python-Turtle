@@ -2,7 +2,7 @@
 
 ## This is my project for LangJam in **Hack Club**
 
-# Blot is...
+# This is...
 
 **A custom programming language** designed from scratch
 
